@@ -1,0 +1,20 @@
+{
+    "name": "stay29/demo",
+    "description": "this is test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "stay29",
+            "email": "349833112@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}
